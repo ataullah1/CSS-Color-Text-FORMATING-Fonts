@@ -1,0 +1,81 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: violet;
+    padding: 20px;
+}
+
+h1 {
+    background-color: rgb(4, 226, 255);
+    text-align: center;
+    font-size: 133px;
+    font-style: inherit;
+    color: chartreuse;
+}
+
+.at {
+    background-color: rgb(209, 19, 19);
+    font-size: 30px;
+    font-style: italic;
+    text-align: justify;
+    color: rgb(26, 230, 118);
+}
+
+.ar {
+    background-color: rgba(240, 240, 40, 0.719);
+    font-size: larger;
+    font-style: oblique;
+    text-align: right;
+    text-transform: capitalize;
+    word-spacing: 20px;
+    color: rgb(253, 48, 11);
+}
+
+.aa {
+    background-color: tomato;
+    color: rgb(21, 197, 241);
+    text-align: start;
+    font-size: xx-large;
+    letter-spacing: 5px;
+    word-spacing: 10px;
+    text-transform: uppercase
+}
+
+.as {
+    background-color: rgb(236, 138, 9);
+    color: rgb(185, 10, 170);
+    font-size: 30px;
+    line-height: 50px;
+    word-spacing: 20px;
+    letter-spacing: 10px;
+    text-shadow: 5px 4px rgb(20, 218, 126);
+    text-decoration: line-through;
+}
+
+.ad {
+    background-color: rgb(7, 90, 62);
+    color: chartreuse;
+    font-size: 35px;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+.ag {
+    background-color: rgb(8, 114, 141);
+    color: rgb(253, 82, 2);
+    font-size: 40px;
+    font-style: oblique;
+    word-spacing: 30px;
+    text-shadow: rgb(20, 218, 126) 2px 3px;
+    text-decoration: overline
+}
+
+.my-data {
+    text-align: center;
+    background-color: rgb(12, 248, 32);
+    padding: 25px;
+}
